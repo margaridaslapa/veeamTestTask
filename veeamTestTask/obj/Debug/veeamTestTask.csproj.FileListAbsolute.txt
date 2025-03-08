@@ -1,0 +1,15 @@
+C:\Users\Ricardo\source\repos\veeamTestTask\veeamTestTask\bin\Debug\veeamTestTask.exe.config
+C:\Users\Ricardo\source\repos\veeamTestTask\veeamTestTask\bin\Debug\veeamTestTask.exe
+C:\Users\Ricardo\source\repos\veeamTestTask\veeamTestTask\bin\Debug\veeamTestTask.pdb
+C:\Users\Ricardo\source\repos\veeamTestTask\veeamTestTask\obj\Debug\veeamTestTask.csproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\veeamTestTask\veeamTestTask\obj\Debug\veeamTestTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\source\repos\veeamTestTask\veeamTestTask\obj\Debug\veeamTestTask.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\veeamTestTask\veeamTestTask\obj\Debug\veeamTestTask.exe
+C:\Users\Ricardo\source\repos\veeamTestTask\veeamTestTask\obj\Debug\veeamTestTask.pdb
+C:\Projects\veeamTestTask\veeamTestTask\bin\Debug\veeamTestTask.exe.config
+C:\Projects\veeamTestTask\veeamTestTask\bin\Debug\veeamTestTask.exe
+C:\Projects\veeamTestTask\veeamTestTask\bin\Debug\veeamTestTask.pdb
+C:\Projects\veeamTestTask\veeamTestTask\obj\Debug\veeamTestTask.csproj.AssemblyReference.cache
+C:\Projects\veeamTestTask\veeamTestTask\obj\Debug\veeamTestTask.csproj.CoreCompileInputs.cache
+C:\Projects\veeamTestTask\veeamTestTask\obj\Debug\veeamTestTask.exe
+C:\Projects\veeamTestTask\veeamTestTask\obj\Debug\veeamTestTask.pdb
